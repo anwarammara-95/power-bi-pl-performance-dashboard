@@ -8,7 +8,7 @@ This project presents a P&L Performance Dashboard that provides a clear overview
 
 ## Dashboard Preview
 
-dashboard-preview.jpg
+![P&L Performance Dashboard](dashboard-preview.jpg)
 
 ## Key Features
 
